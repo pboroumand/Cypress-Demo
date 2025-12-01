@@ -3,9 +3,8 @@
 This project contains a complete **API automation test suite** written in **Cypress 15**, using the public endpoints from **DemoQA**’s Swagger API.  
 It demonstrates clean structure, API testing best practices, negative testing, authentication handling, and reusable environment variables.
 
----
 
-## 🚀 Project Overview
+## Project Overview
 
 The test suite covers:
 
@@ -23,5 +22,4 @@ The test suite covers:
 - **General Negative Tests**
   - Unknown endpoints
   - Unauthorized requests
-
-This project is designed to showcase **real-world QA engineering skills** suitable for portfolios, job applications, and practical API automation.
+  
